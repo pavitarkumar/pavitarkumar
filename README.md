@@ -35,8 +35,6 @@
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -46,6 +44,21 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pavitarkumar&theme=gotham&hide_border=true" width="60%" alt="GitHub streak" />
+</p>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img alt="Pavitar Kumar's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pavitarkumar&custom_title=Pavitar%20Kumar%27s%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavitarkumar/pavitarkumar/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/pavitarkumar/pavitarkumar/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ## 🧩 LeetCode
