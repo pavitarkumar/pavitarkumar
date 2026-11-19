@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Pavitar Kumar 👋</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Pavitar+Kumar" />
+    <img alt="Pavitar Kumar" src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=60&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=Pavitar+Kumar" />
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&height=45&color=0e75b6&size=22&lines=Full-Stack+MERN+Developer;DSA+%26+Problem+Solving;CSE+Student+at+Chitkara+University;Looking+for+an+SDE+Internship" alt="Typing SVG" /></a>
@@ -69,10 +74,26 @@
 
 ---
 
-## 🏅 Certifications
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=Certifications" />
+    <img alt="Certifications" src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=50&pause=1000&color=000000&center=true&vCenter=true&width=600&height=90&lines=Certifications" />
+  </picture>
+</p>
 
-- HackerRank: Problem Solving (Intermediate)
-- Microsoft: AI-900, AZ-900, Develop AI Apps and Agents on Azure
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
+  <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900" />
+  <img src="https://img.shields.io/badge/Microsoft-Develop%20AI%20Apps%20%26%20Agents%20on%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Develop AI Apps and Agents on Azure" />
+  <a href="https://www.hackerrank.com/certificates/b29a1d979c2b"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Problem Solving" /></a>
+</p>
+
+<!--
+To use real badge images instead of the text badges above:
+1. Create a folder called "assets" in your repo and upload your badge images.
+2. Replace the badge <img> lines with, for example:
+   <img src="assets/az-900.png" alt="AZ-900" height="160" />
+-->
 
 ---
 
