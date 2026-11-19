@@ -35,17 +35,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | What it does | Tech |
-| --- | --- | --- |
-| [**Medlyy**](https://medlyy.com) | Medical clothing store for a doctor's startup. Razorpay payments checked on the server, custom measurements, admin panel | React, Node.js, Express, Firestore, Razorpay |
-| [**Suro Ke Sartaaj**](https://surokesartaaj.com) | Audition platform for a news agency. Video uploads, status tracking, admin review | Next.js, TypeScript, Firestore, Cloudflare R2 |
-| [**IndiStay**](https://indystay.vercel.app) | Hotel booking with no double booking, 3 user roles, secure login | Next.js, Express, MongoDB, Docker |
-| [**Online Exam Portal**](https://examportal.in.net) | Exams that recover after a crash, coding section with auto grading, 4 roles | Node.js, Express, MongoDB, React, Electron |
-| **Croma Price Tracker** | Sends a Telegram alert when a phone is in stock and in the price range | Python, Playwright, Flask, SQLite |
-
----
 
 ## 📊 GitHub Stats
 
